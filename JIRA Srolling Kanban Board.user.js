@@ -2,7 +2,7 @@
 // @name       JIRA Srolling Kanban Board
 // @include    */secure/RapidBoard*
 // @namespace  http://jira.epnet.com/
-// @version    0.1
+// @version    0.2
 // @description  JIRA Srolling Kanban Board
 // @copyright  2014+, Public
 // @grant       none
