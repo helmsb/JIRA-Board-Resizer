@@ -13,7 +13,7 @@ setTimeout(function() {
     clone.attr("id", "newHeader").css("background", "#FFF").css("position", "absolute").css("width", "2200px").css("margin-top", "-90px");
     $("#ghx-column-header-group").remove();
     $("#ghx-rabid").append(clone);
-    $("#ghx-pool").css("width", "2200px").css("padding-top","50px");
+    $("#ghx-pool").css("width", "2200px").css("padding-top","100px");
     $("body").removeClass("ghx-scroll-columns").css("overflow-y", "hidden !important");
     $("#ghx-work").attr("id", "ghx-work1").css("overflow-x", "scroll").css("overflow-y", "hidden").width("5000px").height("2000px");
     //$(".ghx-band-1 .ghx-issue .ghx-avatar .ghx-avatar-img").css("height", "32px");
